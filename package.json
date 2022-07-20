@@ -1,5 +1,5 @@
 {
-  "name": "@dennyzhou/shine_cli",
+  "name": "shing_cli",
   "version": "1.0.0",
   "description": "the cli tool for test",
   "main": "index.js",
