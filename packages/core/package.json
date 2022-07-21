@@ -1,11 +1,14 @@
 {
   "name": "@shine_cli/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "周大顺 <476526260@qq.com>",
   "homepage": "https://github.com/a476526260/shine_cli/tree/main/packages/core#readme",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "shine-cli": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,5 +28,6 @@
   },
   "dependencies": {
     "@shine_cli/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "772c8e1adeb8a1ec3522903f5a44f875cfb411a3"
 }
