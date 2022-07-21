@@ -29,5 +29,8 @@
   "dependencies": {
     "@shine_cli/utils": "^1.0.0"
   },
-  "gitHead": "21cfa813a3944f26a1fcbf9d0e2e29abb747ac01"
+  "gitHead": "21cfa813a3944f26a1fcbf9d0e2e29abb747ac01",
+  "publishConfig": {
+    "access": "public"
+  }
 }

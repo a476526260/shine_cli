@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/a476526260/shine_cli/issues"
   },
-  "gitHead": "21cfa813a3944f26a1fcbf9d0e2e29abb747ac01"
+  "gitHead": "21cfa813a3944f26a1fcbf9d0e2e29abb747ac01",
+  "publishConfig": {
+    "access": "public"
+  }
 }
