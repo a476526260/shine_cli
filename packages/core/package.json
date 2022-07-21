@@ -27,7 +27,7 @@
     "url": "https://github.com/a476526260/shine_cli/issues"
   },
   "dependencies": {
-    "@shine_cli/utils": "^1.0.2"
+    "@shine_cli/utils": "^1.0.0"
   },
   "gitHead": "772c8e1adeb8a1ec3522903f5a44f875cfb411a3"
 }
