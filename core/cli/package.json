@@ -5,7 +5,7 @@
   "author": "周大顺 <476526260@qq.com>",
   "homepage": "https://github.com/a476526260/shine_cli/tree/main/packages/core#readme",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "",
   "bin": {
     "shine-cli": "bin/index.js"
   },
@@ -27,7 +27,11 @@
     "url": "https://github.com/a476526260/shine_cli/issues"
   },
   "dependencies": {
-    "@shine_cli/utils": "^1.0.1"
+    "@shine_cli/log": "file:../../utils/log",
+    "colors": "^1.4.0",
+    "import-local": "^3.1.0",
+    "npmlog": "^6.0.2",
+    "semver": "^7.3.7"
   },
   "gitHead": "21cfa813a3944f26a1fcbf9d0e2e29abb747ac01",
   "publishConfig": {
