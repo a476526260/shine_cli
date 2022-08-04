@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@shine_cli/get-npm-info": "file:../../utils/get-npm-info",
-    "@shine_cli/log": "^1.0.3",
+    "@shine_cli/log": "^1.0.2",
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
     "import-local": "^3.1.0",
