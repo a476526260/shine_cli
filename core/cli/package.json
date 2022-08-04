@@ -28,10 +28,16 @@
   },
   "dependencies": {
     "@shine_cli/log": "file:../../utils/log",
+    "@shine_cli/get-npm-info": "file:../../utils/get-npm-info",
     "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
     "import-local": "^3.1.0",
+    "minimist": "^1.2.5",
     "npmlog": "^6.0.2",
-    "semver": "^7.3.7"
+    "path-exists": "^4.0.0",
+    "root-check": "^1.0.0",
+    "semver": "^7.3.7",
+    "user-home": "^3.0.0"
   },
   "gitHead": "21cfa813a3944f26a1fcbf9d0e2e29abb747ac01",
   "publishConfig": {

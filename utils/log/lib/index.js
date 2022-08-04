@@ -8,5 +8,4 @@ function index() {
     log.info('cli', 'test')
 }
 
-
 module.exports = log;
