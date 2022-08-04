@@ -1,6 +1,6 @@
 {
   "name": "@shine_cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "周大顺 <476526260@qq.com>",
   "homepage": "https://github.com/a476526260/shine_cli/tree/main/packages/core#readme",
@@ -27,8 +27,8 @@
     "url": "https://github.com/a476526260/shine_cli/issues"
   },
   "dependencies": {
-    "@shine_cli/log": "file:../../utils/log",
     "@shine_cli/get-npm-info": "file:../../utils/get-npm-info",
+    "@shine_cli/log": "file:../../utils/log",
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
     "import-local": "^3.1.0",
