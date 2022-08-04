@@ -1,6 +1,6 @@
 {
   "name": "@dennyzhou23/shine_cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "the cli tool for test",
   "main": "index.js",
   "scripts": {
