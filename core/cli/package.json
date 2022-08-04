@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@shine_cli/get-npm-info": "file:../../utils/get-npm-info",
-    "@shine_cli/log": "file:../../utils/log",
+    "@shine_cli/log": "^1.0.3",
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
     "import-local": "^3.1.0",
@@ -39,7 +39,7 @@
     "semver": "^7.3.7",
     "user-home": "^3.0.0"
   },
-  "gitHead": "21cfa813a3944f26a1fcbf9d0e2e29abb747ac01",
+  "gitHead": "867789dc3d90afce83377c17e2a97c6fd615cb40",
   "publishConfig": {
     "access": "public"
   }
