@@ -1,0 +1,22 @@
+{
+  "name": "@dennyzhou23/shine_cli",
+  "version": "1.0.2",
+  "description": "the cli tool for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a476526260/shine_cli.git"
+  },
+  "author": "dennyzhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a476526260/shine_cli/issues"
+  },
+  "homepage": "https://github.com/a476526260/shine_cli#readme",
+  "devDependencies": {
+    "lerna": "^5.1.8"
+  }
+}

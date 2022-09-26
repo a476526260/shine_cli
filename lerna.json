@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "core/*",
+    "commands/*",
+    "models/*",
+    "utils/*"
+  ],
+  "useNx": false,
+  "version": "1.0.3"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "@shine_cli/get-npm-info",
+  "version": "1.0.3",
+  "description": "get npm info package",
+  "author": "周大顺 <476526260@qq.com>",
+  "homepage": "https://github.com/a476526260/shine_cli/tree/main/core/get-npm-info#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a476526260/shine_cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/a476526260/shine_cli/issues"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "semver": "^7.3.7",
+    "url-join": "^4.0.1"
+  },
+  "gitHead": "2d3c953a4ac8c4ebbf7a713b6b6a66b4db82c74c"
+}
